@@ -6,6 +6,7 @@ Requirements
 
 
 igraph 
+
 run "!pip install igraph" (on COLAB) (already done in "CV_Project_Final.ipynb")
 
 
