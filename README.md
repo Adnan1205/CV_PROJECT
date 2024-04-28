@@ -2,7 +2,7 @@
 
 This pipleline aims to improve image segmentation of an image using image saliency and GrabCut.
 
-Requirements
+## Requirements
 
 
 igraph 
@@ -10,7 +10,7 @@ igraph
 run "!pip install igraph" (on COLAB) (already done in "CV_Project_Final.ipynb")
 
 
-HOW TO RUN
+## How To Run
 
 To run on Google Colab, follow the following steps :
 
